@@ -1,6 +1,7 @@
 # 🚴 Bike Store Sales Analysis - PowerBI & Python
 
 **📌 Overview**
+
 This project provides a comprehensive exploratory data analysis (EDA) and sales forecasting for a bicycle store using Python and PowerBI. The analysis covers:
 
 Customer segmentation
@@ -14,6 +15,7 @@ Time series forecasting
 Product performance
 
 **📊 PowerBI Dashboard Features**
+
 Interactive sales performance dashboard
 
 Customer demographics analysis
@@ -25,6 +27,7 @@ Seasonal trends visualization
 Revenue forecasting
 
 **🔍 Python Analysis Includes**
+
 python
 1. Data Cleaning & Preprocessing
 2. Feature Engineering
@@ -40,6 +43,7 @@ Google Colab
 
 
 **📈 Key Insights**
+
 Top Performing Products: Mountain bikes generate 35% of total revenue
 
 Customer Segments: Identified 3 distinct customer clusters
