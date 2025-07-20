@@ -3,8 +3,6 @@
 
 ## Project Overview
 
-## Project Overview
-
 The project began with a detailed **Exploratory Data Analysis (EDA)** to uncover key insights including:
 
 - Data Cleaning & Preprocessing  
