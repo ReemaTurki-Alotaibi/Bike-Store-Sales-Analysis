@@ -47,3 +47,7 @@ Explore the live interactive dashboard here:
 - Use Prophet for strategic, interpretable long-term planning  
 - Use Random Forest for accurate short-term operational forecasts  
 
+
+**👩‍💻 Authors**
+Reema Alotaibi
+🔗 LinkedIn https://www.linkedin.com/in/reematurki-alotaibi
