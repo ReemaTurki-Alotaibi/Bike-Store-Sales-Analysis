@@ -48,6 +48,7 @@ Explore the live interactive dashboard here:
 - Use Random Forest for accurate short-term operational forecasts  
 
 
-**👩‍💻 Authors**
-Reema Alotaibi
-🔗 LinkedIn https://www.linkedin.com/in/reematurki-alotaibi
+## 👩‍💻 Authors
+
+**Reema Alotaibi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/reematurki-alotaibi)
